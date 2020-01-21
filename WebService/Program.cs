@@ -10,7 +10,7 @@ namespace WebService
     {
         static void Main(string[] args)
         {
-            //initial changes
+            //initial change 
         }
     }
 }
